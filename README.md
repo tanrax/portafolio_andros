@@ -4,3 +4,4 @@
 - Clonar
 - Crear una versión
 - PUll
+- Fetch
